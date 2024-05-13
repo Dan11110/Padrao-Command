@@ -14,6 +14,7 @@ public class App {
         alexa.botaoExecutar(); //Ligar Lâmpada
         alexa.botaoDesfazer(); //Desligar Lâmpada
         alexa.botaoMudar();    //\Mudar cor da lâmpada 
+        //Daniel
         System.out.println("\n");
         //Teste para o Sitema de Som
         SistemaSom TesteSom = new SistemaSom(58);
